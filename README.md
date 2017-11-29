@@ -77,5 +77,16 @@ evento de comunidade.
       </td>
       <td><a href="2017-11-13_OCR_GruPy-SP_10_anos.ipynb">Notebook</a></td>
     </tr>
+    <tr>
+      <td>2017-11-28</td>
+      <td><a href="https://www.meetup.com/pt-BR/Sao-Paulo-Big-Data-Meetup/events/244999924/">São Paulo Big Data (Nov 2017) @ FAM</a></td>
+      <td>
+        <ul>
+          <li>[pt_BR] Teorema do Limite Central</li>
+          <li>[en] Central Limit Theorem</li>
+        </ul>
+      </td>
+      <td><a href="2017-11-28_Teorema_Limite_Central/2017-11-28_Teorema_Limite_Central.ipynb">Notebook [pt_BR]</a></td>
+    </tr>
   </tbody>
 </table>
