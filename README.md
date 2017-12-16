@@ -88,5 +88,11 @@ evento de comunidade.
       </td>
       <td><a href="2017-11-28_Teorema_Limite_Central/2017-11-28_Teorema_Limite_Central.ipynb">Notebook [pt_BR]</a></td>
     </tr>
+    <tr>
+      <td>2017-12-15</td>
+      <td><a href="https://www.meetup.com/pt-BR/Grupy-SP/events/245710623/">SciPy-SP 2017-12 @ Eretz.bio - Hospital Albert Einstein</a></td>
+      <td>Sympy 101</td>
+      <td><a href="2017-12-15_Sympy_101/2017-12-15_Sympy_101.ipynb">Notebook</a></td>
+    </tr>
   </tbody>
 </table>
