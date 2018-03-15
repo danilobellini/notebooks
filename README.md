@@ -82,7 +82,7 @@ evento de comunidade.
       <td><a href="https://www.meetup.com/pt-BR/Sao-Paulo-Big-Data-Meetup/events/244999924/">São Paulo Big Data (Nov 2017) @ FAM</a></td>
       <td>
         <ul>
-          <li>[pt_BR] Teorema do Limite Central</li>
+          <li>[pt_BR] Teorema Central do Limite</li>
           <li>[en] Central Limit Theorem</li>
         </ul>
       </td>
@@ -93,6 +93,18 @@ evento de comunidade.
       <td><a href="https://www.meetup.com/pt-BR/Grupy-SP/events/245710623/">SciPy-SP 2017-12 @ Eretz.bio - Hospital Albert Einstein</a></td>
       <td>Sympy 101</td>
       <td><a href="2017-12-15_Sympy_101/2017-12-15_Sympy_101.ipynb">Notebook</a></td>
+    </tr>
+    <tr>
+      <td>2018-03-14</td>
+      <td><a href="https://www.meetup.com/pt-BR/Grupy-SP/events/248111900/">SciPy-SP 2018-03 @ Eretz.bio - Hospital Albert Einstein</a></td>
+      <td>
+        <ul>
+          <li>[pt_BR] Usando OCRs em Python: Tesseract e Vision</li>
+          <li>[en] Using OCRs in Python: Tesseract and Vision</li>
+        </ul>
+        [Mainly a crash course on Tesseract]
+      </td>
+      <td><a href="2018-03-14_OCRs/2018-03-14_OCRs.ipynb">Notebook [en]</a></td>
     </tr>
   </tbody>
 </table>
