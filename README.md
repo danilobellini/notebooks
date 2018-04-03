@@ -62,6 +62,7 @@ evento de comunidade.
           <li><a href="2017-10-26_scikit-learn/mini-curso_scikit-learn.ipynb">Tutorial (pt_BR)</a></li>
           <li><a href="2017-10-26_scikit-learn/resposta-exercicio-1.ipynb">Solução do primeiro exercício (Blob classification w/ SVM)</a></li>
           <li><a href="2017-11-13_OCR_GruPy-SP_10_anos.ipynb">Solução do segundo exercício (Digits OCR)</a></li>
+          <li><a href="2018-03-31_scikit-learn/resposta-exercicio-clustering.ipynb">Solução do terceiro exercício (Iris clustering w/ k-Means) [pt_br]</a></li>
         </ul>
       </td>
     </tr>
@@ -75,7 +76,12 @@ evento de comunidade.
         </ul>
         [Lightning talk]
       </td>
-      <td><a href="2017-11-13_OCR_GruPy-SP_10_anos.ipynb">Notebook</a></td>
+      <td>
+        <ul>
+          <li><a href="2017-11-13_OCR_GruPy-SP_10_anos.ipynb">Notebook</a></li>
+          <li><a href="https://youtu.be/kDmsYpRuNPA?t=45m50s">Video @ YouTube [pt_br]</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>2017-11-28</td>
@@ -105,6 +111,29 @@ evento de comunidade.
         [Mainly a crash course on Tesseract]
       </td>
       <td><a href="2018-03-14_OCRs/2018-03-14_OCRs.ipynb">Notebook [en]</a></td>
+    </tr>
+    <tr>
+      <td>2018-03-31</td>
+      <td><a href="http://pythonsudeste.org">Python Sudeste 2018 @ Digital Building</a></td>
+      <td>
+        <ul>
+          <li>[pt_BR] Machine Learning com scikit-learn</li>
+          <li>[en] Machine Learning with scikit-learn</li>
+        </ul>
+        Carga horária/load: 6h50min
+      </td>
+      <td>
+        <ul>
+          <li><a href="2018-03-31_scikit-learn/sklearn_tutorial.ipynb">Tutorial [pt_br]</a></li>
+          <li><a href="2018-03-31_scikit-learn/resposta-exercicio-interpolacao.ipynb">Resposta ao exercício de interpolação (Linear interpolation)</a></li>
+          <li><a href="2018-03-31_scikit-learn/resposta-exercicio-regressao.ipynb">Resposta ao exercício de regressão (Linear regression of the Boston House Prices dataset) [pt_br]</a></li>
+          <li><a href="2018-03-31_scikit-learn/resposta-exercicio-classificacao.ipynb">Resposta ao exercício de classificação (Blob classification w/ SVM)</a></li>
+          <li><a href="2017-10-26_scikit-learn/resposta-exercicio-1.ipynb">Classificação de outros blobs (other blobs classification)</a></li>
+          <li><a href="2017-11-13_OCR_GruPy-SP_10_anos.ipynb">Resposta ao exercício de pipeline (Digits OCR)</a></li>
+          <li><a href="https://youtu.be/kDmsYpRuNPA?t=45m50s">Vídeo no YouTube com a solução do OCR de dígitos [pt_br]</a></li>
+          <li><a href="2018-03-31_scikit-learn/resposta-exercicio-clustering.ipynb">Resposta ao exercício de clustering (k-Means clustering of the Iris dataset) [pt_br]</a></li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
