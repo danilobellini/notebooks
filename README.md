@@ -135,5 +135,21 @@ evento de comunidade.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>2018-04-23</td>
+      <td><a href="https://www.youtube.com/watch?v=UsNH6rBibwg&list=PLOQgLBuj2-3K1hb7XgkGPb4S9YNIeHsPk">Live de Python (YouTube Playlist)</a></td>
+      <td>
+        <ul>
+          <li>[pt_BR] "Esses dados são viciados?" estrelando pandas e scipy.stats</li>
+          <li>[en] "Are these d.. biased?" starring pandas and scipy.stats</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="2018-04-23_DadosViciados/2018-04-23_LiveDePython.ipynb">Notebook [pt_br]</a></li>
+          <li><a href="https://youtu.be/UsNH6rBibwg">Video @ YouTube [pt_br]</a></li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
