@@ -151,5 +151,16 @@ evento de comunidade.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>2018-05-12</td>
+      <td><a href="https://speakerfight.com/events/primeiro-encontro-do-grupy-abc/schedule">GruPy-ABC 2018-05 Meeting @ UFABC</a></td>
+      <td>
+        <ul>
+          <li>[pt_BR] Breve Introdução ao Pandas</li>
+          <li>[en] Brief Introduction to Pandas</li>
+        </ul>
+      </td>
+      <td><a href="2018-05-12_Pandas_UFABC.ipynb">Notebook</a></td>
+    </tr>
   </tbody>
 </table>
