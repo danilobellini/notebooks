@@ -162,5 +162,17 @@ evento de comunidade.
       </td>
       <td><a href="2018-05-12_Pandas_UFABC.ipynb">Notebook</a></td>
     </tr>
+    <tr>
+      <td>2018-11-10</td>
+      <td><a href="https://www.meetup.com/pt-BR/Grupy-SP/events/256006839/">GruPy-SP 11 years and GruPy-ABC 6 months anniversaries @ Loggi</a></td>
+      <td>
+        <ul>
+          <li>[pt_BR] Dinâmica social da tolerância, motivação e confiança</li>
+          <li>[en] Social dynamics regarding tolerance, motivation and trust</li>
+        </ul>
+        [Ciência política, dilema to prisioneiro iterado, teoria dos jogos]
+      </td>
+      <td><a href="2018-11-10_Axelrod/2018-11-10_Axelrod.ipynb">Notebook [pt_br]</a></td>
+    </tr>
   </tbody>
 </table>
