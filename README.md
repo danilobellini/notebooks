@@ -174,5 +174,19 @@ evento de comunidade.
       </td>
       <td><a href="2018-11-10_Axelrod/2018-11-10_Axelrod.ipynb">Notebook [pt_br]</a></td>
     </tr>
+    <tr>
+      <td>2019-10-26</td>
+      <td><a href="https://2019.pythonbrasil.org.br/">Python Brasil</a></td>
+      <td>
+        <ul>
+          <li>[pt_BR] Nota de corte na Fuvest 2012:
+              "Data Science sem dados" para tomada de decisão?</li>
+          <li>[en] Minimum score in Fuvest 2012:
+              "Data Science without data" for decision making</li>
+        </ul>
+        [Lightning talk]
+      </td>
+      <td><a href="2019-10-26_Fuvest_Binomial/Fuvest_2012_Binomial.ipynb">Notebook [pt_br]</a></td>
+    </tr>
   </tbody>
 </table>
